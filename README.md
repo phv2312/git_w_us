@@ -6,7 +6,8 @@ Hoc Git voi chung toi
 
 Toi & ban
 
-1. [nancy](./intros/nancy_intro.py)
+1. [Kelly](./intros/kelly_intro.py)
+2. [nancy](./intros/nancy_intro.py)
 
 # Schedule
 
