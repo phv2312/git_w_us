@@ -6,6 +6,8 @@ Hoc Git voi chung toi
 
 Toi & ban
 
+1. [Kelly](./intros/kelly_intro.py)
+
 # Schedule
 
 Thu 3, 5, 7 hang tuan
